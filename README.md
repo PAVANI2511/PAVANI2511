@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S Pavani</h1>
+<h1 align="center">Hi,I'm S Pavani</h1>
 
 <h3 align="center">
 Aspiring Software Developer | Python Developer | Web Developer Enthusiast
@@ -12,13 +12,13 @@ Aspiring software developer passionate about full stack development, problem sol
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
-- 📊 Current CGPA: **9.39**
-- 💻 Skilled in **Python, React JS, HTML, CSS, MySQL**
-- 🌱 Currently learning **Flask, DSA, and Backend Development**
-- 🧠 Interested in **Software Engineering, Web Development, AI & ML**
-- 🏆 SIH 2025 participant selected up to college level
-- 🚀 Building real-world applications and continuously improving technical skills
+-  Pursuing B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
+-  Current CGPA: **9.39**
+-  Skilled in **Python, React JS, HTML, CSS, MySQL**
+-  Currently learning **Flask, DSA, and Backend Development**
+-  Interested in **Software Engineering, Web Development, AI & ML**
+-  SIH 2025 participant selected up to college level
+-  Building real-world applications and continuously improving technical skills
 
 ---
 
@@ -46,7 +46,7 @@ Aspiring software developer passionate about full stack development, problem sol
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 Smart Notice Board
 Responsive web application for managing and distributing college notices with email notification support.
@@ -72,7 +72,7 @@ Machine learning-based fraud detection system using Logistic Regression for iden
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PAVANI2511&show_icons=true&theme=tokyonight" />
@@ -85,17 +85,17 @@ Machine learning-based fraud detection system using Logistic Regression for iden
 
 ---
 
-## 🏆 Achievements & Experience
+##  Achievements & Experience
 
-- 🥈 Secured 2nd position consistently in academics
-- 🚀 Participated in Smart India Hackathon (SIH) 2025
-- 🎯 Completed **Python Zero to Hero** course from GUVI
-- 👩‍💼 Internship experience in Web Development & Software Development
-- 🎤 Coordinated technical symposium activities in AIMEX 2025
+- Secured 2nd position consistently in academics
+- Participated in Smart India Hackathon (SIH) 2025
+- Completed **Python Zero to Hero** course from GUVI
+-  Internship experience in Web Development & Software Development
+-  Coordinated technical symposium activities in AIMEX 2025 and 2026
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pavani-sandra-8360522bb" target="blank">
@@ -103,10 +103,10 @@ Machine learning-based fraud detection system using Logistic Regression for iden
 </a>
 </p>
 
-📧 **Email:** pavanisandra25@gmail.com
+**Email:** pavanisandra25@gmail.com
 
 ---
 
 <p align="center">
-⭐ <i>"Consistency and continuous learning are the keys to growth."</i>
+ <i>"Consistency and continuous learning are the keys to growth."</i>
 </p>
