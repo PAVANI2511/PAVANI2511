@@ -1,97 +1,107 @@
-<h1 align="center">Hi 👋, I'm Pavani</h1>
-<h3 align="center">Final Year CSE (AIML) Student | Python & Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm S Pavani</h1>
+
+<h3 align="center">
+Final Year CSE (AI & ML) Student | Python Developer | Full Stack Web Enthusiast
+</h3>
 
 <p align="center">
-  Passionate about building web applications, solving real-world problems, and continuously improving technical skills.
+Passionate about building scalable web applications, solving real-world problems, and continuously improving technical expertise.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavani-sandra-8360522bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Pavani-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=PAVANI2511&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Pursuing B.Tech in CSE (AI & ML) at MITS with **9.49 CGPA**
+- 🎓 B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
+- 📊 Current CGPA: **9.39**
 - 💻 Skilled in **Python, React JS, HTML, CSS, MySQL**
-- 🌱 Currently learning **Flask, Full Stack Development, DSA**
-- 🧠 Interested in **Web Development,Software Engineering, AI & Machine Learning**
+- 🌱 Currently learning **Flask, DSA, Full Stack Development**
+- 🧠 Interested in **Software Engineering, Web Development, AI & ML**
 - 🏆 SIH 2025 participant selected up to college level
-- 👩‍💻 Passionate about building impactful real-world projects
+- 🚀 Actively building real-world development projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### Backend & Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Smart Notice Board
-A responsive web application that helps colleges manage and distribute notices efficiently with email notifications and authentication.
+A responsive web application for managing and distributing college notices with email notifications and authentication features.
 
-🔧 Tech Used: React JS, HTML, CSS
+**Tech Stack:** React JS, HTML, CSS
 
-🔗 Repository:
-[Smart Notice Board](https://github.com/PAVANI2511/NoticeBoard)
+🔗 Repository:  
+[NoticeBoard](https://github.com/PAVANI2511/NoticeBoard)
 
 ---
 
 ### 🔹 Emotion Analyzer
-An AI-based application that detects human emotions using facial expressions and predicts moods like happy, sad, and angry.
+An AI-powered application that detects emotions using facial expressions and predicts moods such as happy, sad, and angry.
 
-🔧 Tech Used: Python, Machine Learning
+**Tech Stack:** Python, Machine Learning
 
 ---
 
 ### 🔹 Fraud Detection System
-A machine learning project that detects fraudulent credit card transactions using Logistic Regression algorithms.
+Machine learning-based fraud detection system using Logistic Regression for identifying fraudulent credit card transactions.
 
-🔧 Tech Used: Python, Machine Learning
+**Tech Stack:** Python, Machine Learning
 
-🔗 Repository:
-[Fraud Detection](https://github.com/PAVANI2511/FraudDetection)
+🔗 Repository:  
+[FraudDetection](https://github.com/PAVANI2511/FraudDetection)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAVANI2511&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PAVANI2511&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PAVANI2511&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAVANI2511&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANI2511&layout=compact&theme=tokyonight" alt="top languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANI2511&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Experience
 
 - 🥈 Secured 2nd position consistently in academics
 - 🚀 Participated in Smart India Hackathon (SIH) 2025
-- 🎯 Completed Python Zero to Hero course from GUVI
+- 🎯 Completed **Python Zero to Hero** course from GUVI
 - 👩‍💼 Internship experience in Web Development & Software Development
+- 🎤 Coordinated technical symposium activities in AIMEX 2025
 
 ---
 
@@ -99,14 +109,14 @@ A machine learning project that detects fraudulent credit card transactions usin
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pavani-sandra-8360522bb">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
-📧 Email:pavanisandra25@gmail.com
+📧 **Email:** pavanisandra25@gmail.com
 
 ---
 
 <p align="center">
-  ⭐ “Consistency and continuous learning are the keys to growth.” ⭐
+⭐ <i>"Consistency and continuous learning are the keys to growth."</i>
 </p>
