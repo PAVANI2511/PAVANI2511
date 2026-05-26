@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm S Pavani</h1>
 
 <h3 align="center">
-Final Year CSE (AI & ML) Student | Python Developer | Full Stack Web Enthusiast
+Aspiring Software Developer | Python Developer | React Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving real-world problems, and continuously improving technical expertise.
+Aspiring software developer passionate about full stack development, problem solving, and building impactful web applications.
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
+- 🎓 Pursuing B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
 - 📊 Current CGPA: **9.39**
 - 💻 Skilled in **Python, React JS, HTML, CSS, MySQL**
-- 🌱 Currently learning **Flask, DSA, Full Stack Development**
+- 🌱 Currently learning **Flask, DSA, and Backend Development**
 - 🧠 Interested in **Software Engineering, Web Development, AI & ML**
 - 🏆 SIH 2025 participant selected up to college level
-- 🚀 Actively building real-world development projects
+- 🚀 Building real-world applications and continuously improving technical skills
 
 ---
 
@@ -47,30 +49,26 @@ Passionate about building scalable web applications, solving real-world problems
 ## 📌 Featured Projects
 
 ### 🔹 Smart Notice Board
-A responsive web application for managing and distributing college notices with email notifications and authentication features.
+Responsive web application for managing and distributing college notices with email notification support.
 
-**Tech Stack:** React JS, HTML, CSS
-
-🔗 Repository:  
-[NoticeBoard](https://github.com/PAVANI2511/NoticeBoard)
+**Tech Stack:** React JS, HTML, CSS  
+🔗 [Repository](https://github.com/PAVANI2511/NoticeBoard)
 
 ---
 
 ### 🔹 Emotion Analyzer
-An AI-powered application that detects emotions using facial expressions and predicts moods such as happy, sad, and angry.
+AI-powered application that detects emotions using facial expressions and predicts moods such as happy, sad, and angry.
 
-**Tech Stack:** Python, Machine Learning
-🔗 Repository:  
-[Emotion Analyzer](https://github.com/PAVANI2511/NoticeBoard)
+**Tech Stack:** Python, Machine Learning  
+🔗 [Repository](https://github.com/teju434/Real-Time-Emotion-Detection-AI)
+
 ---
 
 ### 🔹 Fraud Detection System
 Machine learning-based fraud detection system using Logistic Regression for identifying fraudulent credit card transactions.
 
-**Tech Stack:** Python, Machine Learning
-
-🔗 Repository:  
-[FraudDetection](https://github.com/PAVANI2511/FraudDetection)
+**Tech Stack:** Python, Machine Learning  
+🔗 [Repository](https://github.com/PAVANI2511/FraudDetection)
 
 ---
 
@@ -100,7 +98,7 @@ Machine learning-based fraud detection system using Logistic Regression for iden
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pavani-sandra-8360522bb">
+<a href="https://www.linkedin.com/in/pavani-sandra-8360522bb" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
