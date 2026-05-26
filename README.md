@@ -84,7 +84,17 @@ Machine learning-based fraud detection system using Logistic Regression for iden
 </p>
 
 ---
+##  Internships
 
+### 🔹 ASAR IT Technology
+**Software Development Intern**  
+- Gained hands-on experience in software development and teamwork
+- Worked on real-time development tasks and technical collaboration
+
+### 🔹 Apex Planet Software Pvt. Ltd
+**Web Development Intern**  
+- Developed responsive web pages for assigned problem statements
+- Improved frontend development and problem-solving skills
 ##  Achievements & Experience
 
 - Secured 2nd position consistently in academics
