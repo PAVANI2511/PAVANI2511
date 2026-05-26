@@ -8,15 +8,6 @@ Final Year CSE (AI & ML) Student | Python Developer | Full Stack Web Enthusiast
 Passionate about building scalable web applications, solving real-world problems, and continuously improving technical expertise.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavani-sandra-8360522bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Pavani-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=PAVANI2511&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
@@ -43,12 +34,12 @@ Passionate about building scalable web applications, solving real-world problems
 
 ### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,windows,vscode" />
 </p>
 
 ---
@@ -69,7 +60,8 @@ A responsive web application for managing and distributing college notices with 
 An AI-powered application that detects emotions using facial expressions and predicts moods such as happy, sad, and angry.
 
 **Tech Stack:** Python, Machine Learning
-
+🔗 Repository:  
+[Emotion Analyzer](https://github.com/PAVANI2511/NoticeBoard)
 ---
 
 ### 🔹 Fraud Detection System
