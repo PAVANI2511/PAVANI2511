@@ -98,12 +98,22 @@ Machine learning-based fraud detection system using Logistic Regression for iden
 ##  Connect With Me
 
 <p align="left">
+
+<a href="https://github.com/PAVANI2511" target="blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
 <a href="https://www.linkedin.com/in/pavani-sandra-8360522bb" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
+<a href="https://leetcode.com/u/Pavani2511/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </p>
 
-**Email:** pavanisandra25@gmail.com
+ **Email:** pavanisandra25@gmail.com
 
 ---
 
