@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Pavani</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Python Developer | React Enthusiast
+Aspiring Software Developer | Python Developer | Web Developer Enthusiast
 </h3>
 
 <p align="center">
