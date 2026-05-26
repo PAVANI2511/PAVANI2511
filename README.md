@@ -10,7 +10,7 @@ Aspiring software developer passionate about full stack development, problem sol
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 -  Pursuing B.Tech in **CSE (Artificial Intelligence & Machine Learning)** at **MITS**
 -  Current CGPA: **9.39**
@@ -22,7 +22,7 @@ Aspiring software developer passionate about full stack development, problem sol
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
